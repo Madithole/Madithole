@@ -1,6 +1,6 @@
 # 👋 Hi there, I am Madithole Chabalala!
 
-I'm an enthusiastic and hardworking **ICT graduate** with a **Diploma in System Development**. My passion lies in technology and problem-solving, and I love learning new skills to grow both personally and professionally.
+I'm an enthusiastic and diligent **ICT graduate** with a **Diploma in System Development**. My passion lies in technology and problem-solving, and I love learning new skills to grow both personally and professionally.
 
 ## 💻 What I Know
 - 🌐 Web Development: HTML, CSS, PHP
