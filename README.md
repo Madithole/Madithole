@@ -14,10 +14,10 @@ I'm an enthusiastic and diligent **ICT graduate** with a **Diploma in System Dev
 - Project previews and additional updates will be added as development progresses.
   
 - **Future updates will include:**
--   Project screenshots
--   Improved documentation
--   Feature enhancements
--   Deployment links where applicable
+  - Project screenshots
+  - Improved documentation
+  - Feature enhancements
+  - Deployment links where applicable
 
 ## Goals
 - To continuously improve my skills and stay updated with tech trends
