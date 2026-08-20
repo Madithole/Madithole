@@ -4,7 +4,7 @@ I'm an enthusiastic and diligent **ICT graduate** with a **Diploma in System Dev
 
 ## What I Know
 -  Web Development: HTML, CSS, PHP
--  Backend: SQL, Database Management
+-  Backend: SQL, Database Management, Java
 
   ## Project Status
 - All projects are currently under development.
